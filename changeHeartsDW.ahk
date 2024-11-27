@@ -26,7 +26,7 @@ If (A_ScriptDir != A_Startup) {
         Gui, Add, Checkbox, vdontAsk, Don't ask again,
         Gui, Add, Button, Default w80 gOk, OK
         Gui, Add, Button, w80 gCancel, Cancel
-        Gui, Show, w500 h400 Center, Androjana
+        Gui, Show, w500 h400 Center, changeHeartsDw
     }
 }
 
